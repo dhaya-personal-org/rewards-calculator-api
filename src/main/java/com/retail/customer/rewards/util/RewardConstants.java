@@ -1,4 +1,4 @@
-package com.retail.customer.rewards.controller.util;
+package com.retail.customer.rewards.util;
 
 public class RewardConstants {
     public static final int REWARD_1_VALUE = 1;
